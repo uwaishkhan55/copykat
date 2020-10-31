@@ -1,3 +1,135 @@
-This allows me to go inside the hole of world which 
-inface abandon's me abandons me from geeting sick it appears, to be very sick but
-appear appears fine Its just a anonymous
+Documentation and Plagiarism
+WHAT IS DOCUMENTATION?
+You already may be familiar with some form of documentation that you used in preparing high school research papers. Perhaps you used the system in which you placed footnotes at the bottom of each page or endnotes at the end of the paper; your bibliography may have included everything you read, even if you never referred to it in your text. That system of documentation is preferred in some Skidmore courses (check with your professor), but in many courses it has been replaced by the three documentation formats described here. All serve the same purpose.
+
+Here are some examples of footnotes and endnotes:
+
+If you are citing a book with one author:
+1 Jane Tompkins, West of Everything: The Inner Life of Westerns (New York: Oxford UP, 1992) 22.
+If you are citing a book having two or three authors:
+2 Barbara Rico and Sandra Mano, American Mosaic:Multicultural Readings in Context (Boston: Houghton, 1991) 121.
+If you are citing a book having four or more authors, use the Latin et al.:
+3 Martin J. Medhurst et al., Cold War Rhetoric: Strategy, Metaphor, and Ideology (New York: Greenwood, 1990) 52.
+If the author is not given, begin with the title:
+4 The Times Atlas of the World, 9th ed.(New York: Times, 1992) 135.
+If you are citing an encyclopedia:
+5 "Croatia," The New Encyclopaedia Britannica: Micropaedia, 1991.
+If you are citing an article in a monthly magazine:
+6 John Lukacs, "The End of the Twentieth Century," Harper's Jan. 1993: 41.
+If you are citing an article in a journal that continues its page numbers throughout the year:
+7 Gabriel Segal, "Seeing What Is Not There," Philosophical Review 98 (1989): 200.
+If you are citing an article from a journal that begins each issue with page 1:
+8 G.J. Johnson, "A Distinctiveness Model of Serial Learning," Psychological Review 98.2 (1991): 208.
+If you are citing an article in a daily newspaper:
+9 Lena H. Sun, "Chinese Feel the Strain of a New Society," Washington Post 13 June 1993: A1. 
+Documenting your sources provides essential information for your reader. By citing sources, you show your indebtedness to the work of others, and you give your reader the chance to seek further information from the sources themselves. Citing sources also supports your own credibility as a writer and researcher. Careful documentation shows that you are not thinking in a vacuum; rather, it shows you have studied what others have written on the subject and that you have considered their work. This kind of academic "dependency" is really a sign of scholarly strength, not weakness, because it shows that you are participating critically in a scholarly conversation with others. At the same time, documentation demonstrates your own academic integrity by showing that you are carefully giving credit where credit is due.
+
+Through careful documentation, you indicate where the information or ideas in your paper come from. In a sense, you provide references to the "documents" upon which your work is based. You must document quotations, summaries, and paraphrases.
+
+Quotation. Taking from another source the exact words of the author and using them in your own written work. These words need to begin and conclude with a quotation mark.
+Summary. Taking lengthy passages from a source, reformulating or outlining them in your own words, and using them in your own written work. Summarized material is not enclosed in quotation marks.
+Paraphrase. Taking short passages from a source, restating the content of the passage, reconstructing the passage phrase by phrase, and rephrasing the author's words in your own. Paraphrased material is not enclosed in quotation marks.
+You must indicate in your text which words, ideas, or information you have derived from sources. Your Bibliography or Works Cited should include complete bibliographical entries so that a reader could easily find the sources in the library.
+
+Since documentation is frequently taught only for research papers or term papers, students wonder if they should bother with it at other times - for instance, when they make brief references to one or two sources in a short essay. Some teachers may even tell you not to bother with bibliographical information for a source if it is well known to both you and the teacher. Technically, however, failure to document ideas or information from any source constitutes plagiarism.
+
+So how do you know when to cite sources and when not to bother? This is the best advice:
+
+ Whenever your writing is based on or influenced by sources, you must cite those sources and provide full bibliographical material.
+When in my paper do I cite sources?
+
+When writing from sources, you constantly must make judgments, deciding when you need to cite a source and when you do not. Many professors find that students tend to under-document their essays; however, you should not get so nervous about citing sources that you put a citation in every sentence. You do not have to attribute everything you write to some other source, but you do need to distinguish clearly between your own words and ideas and those of others. These judgments can sometimes be tricky, but the principles that follow in the next pages should help you to decide when to cite sources.
+
+Remember: You need to cite sources for material that is quoted, paraphrased, or summarized. You need to tell your reader what documents you used to write your essay or report.
+
+As you write your papers, you'll decide when to use your own words and when to take words directly from your sources. Most often, you should put what you read into your own words, paraphrasing or summarizing what comes from other sources. By paraphrasing or summarizing, you show how you are processing the ideas or information that you found in your sources. Sometimes, however, it may be best to quote, taking phrases, sentences, and even whole paragraphs directly from a source. When you do take words from a source, even a single phrase, you must place quotation marks around those words or indent to set off a longer quotation.
+
+Your Skidmore professors expect you to know when to cite sources as well as how to cite them according to the documentation style appropriate to the academic discipline in which you are working. Although many professors do not take time out of their classes to teach you this skill, most welcome questions about citation. We encourage you to ask your instructors if you are in doubt about research expectations. You will not be criticized for documenting your sources; however, if you fail to document, you may suffer severe penalties and be guilty of plagiarism.
+
+Quoting
+
+Remember that your purpose in writing is to build and construct your own pattern of meaning, even when assignments require working with a number of secondary sources. Of course, your professors expect you to use sources intelligently and cite them correctly, but they don't want you just to parrot back what those sources tell you. They expect papers to represent your work, your thinking, and your writing. You must develop your own ideas, build your own organization, and reach your own conclusions. References and quotations serve to strengthen your text by providing necessary support or evidence.
+
+Choose quotations carefully
+
+Seldom, if ever, will your instructors ask you to include a certain number of quotations per page or even per paper. In a typical research paper, you may consult ten sources, but in the actual paper you may quote a few lines from two of the ten sources, while including more detailed information from three others. Most often, you should paraphrase or summarize source material. Quote only when you want the exact words of a source for some important reason. And keep all quotations as brief as possible.
+
+Here are some reasons you may want to quote from your sources:
+
+For support - as an appeal to authority, to bring the voices of experts into your paper.
+For vivid language - because the wording of the original source is clearer and more effective than any paraphrase you could write.
+To represent the source fairly - when you quote accurately and directly, no one can claim that you have misrepresented the source.
+To enrich an argument- to interject controversy, for example, and show what's at stake in taking a position.
+A good quotation must be more than a random selection from a source. It should say something significant or important enough to be quoted. Even if the idea is important, though, avoid quoting poor or unclear writing; you would be served better by paraphrasing such a passage. The best passages to quote, then, should be "quotable": both well-written and enlightening.
+
+Use quotations sparingly; don't over-quote. If you write a five-page paper, for instance, and two entire pages are quotations, you have relied too much on your sources to convey ideas - there are only three pages of your own writing. Don't let other voices dominate your paper. Never build your paper by stringing together other people's words.
+
+Remember: Quotations should serve as evidence or support, not as a substitute for your own ideas, arguments, or assertions.
+
+Integrate quotations into your own writing
+
+Make sure that you introduce all quotations so that the reader knows who is being quoted. Don't rely only on citations (parenthetical, endnotes, or footnotes) to convey this information. Don't present a quotation without commenting or elaborating on it. Your reader must understand why you have chosen a particular passage to quote, what it says that is significant, and what you want the reader to take from it. Don't assume that your reader will see the same significance you see in a quotation; point out what is important for the reader. Do not "quote and run." A valuable guideline is to give at least as much commentary on the quotation as the space the quotation takes up on the page; so, if a quotation takes up five lines or forty words, your commentary on this quotation should be roughly that long. In short, quoted material must be clearly integrated with your own text, and you should make clear its importance in your paper.
+
+What is plagiarism?
+
+The Skidmore community's definition of plagiarism and penalties for plagiarism are found in the Skidmore College Academic Information Guide and in the Student Handbook.
+
+PLAGIARISM:Presenting as one's own the work of another person (for example, the words, ideas, information, data, evidence, organizing principles, or style of presentation of someone else). Plagiarism includes paraphrasing or summarizing without acknowledgment, submission of another student's work as one's own, the purchase of prepared research or completed papers or projects, and the unacknowledged use of research sources gathered by someone else. Failure to indicate accurately the extent and precise nature of one's reliance on other sources is also a form of plagiarism. The student is responsible for understanding the legitimate use of sources, the appropriate ways of acknowledging his or her academic, scholarly, or creative indebtedness, and the consequences for violating the Skidmore Honor Code. The Academic Integrity Board and the Board of Review will not regard claims of ignorance, of unintentional error, and of academic or personal pressures as an adequate defense for violations of the Honor Code
+(1) Minor offenses: e.g., failure to acknowledge the source(s) of a few phrases, sentences, or an idea (though not an idea of importance to the thesis or central purpose of the paper or project).
+
+(2) More serious offenses: e.g., failure to acknowledge the quotation or paraphrase of a few longer, paragraph-length sections of a paper, failure to acknowledge the source(s) of a major idea of the source(s) of important pieces of evidence or information, or the source(s) for an ordering principle central to the paper's or project's structure.
+
+(3) Major Offenses: e.g., failure to acknowledge the source (quoted, paraphrased, or summarized) of major sections of passages in a paper or project, the unacknowledged use of several major ideas or extensive reliance on another person's data, evidence, or critical method; submitting as one's own, work borrowed, stolen, or purchased from someone else.
+
+Penalties for Plagiarism: All offenses observed by faculty or students must be reported to the dean of studies, who will keep a confidential record of the offense, the evidence, and the penalty. The dean will also make certain that the student understands his or her rights, the nature and importance of academic integrity, and the probable consequences of a second violation.
+
+In the case of minor offenses (as defined in #1 above), the instructor might make any one of a combination of the following responses:
+
+warning without further penalty
+required rewriting of the paper, but without grade credit
+lowering of the paper or project by one full grade.
+In the case of more serious offenses and major offenses (defined in #2 and #3 above), the instructor might impose one or more of the following:
+
+failure on the plagiarized essay, report, or project (no revision or supplemental work accepted)
+failure in the course (more appropriate to a major offense)
+request for an AIB hearing, which will consider academic disciplinary probation, another type of academic sanction, or a recommendation for suspension.
+As you can see, the Skidmore community regards plagiarism as academic misconduct. Stealing someone else's ideas, words, data, information, or method of argument is the literary equivalent of theft. Some kinds of plagiarism are obvious. Putting your name on your roommate's paper and submitting it for a grade is obvious and intentional plagiarism; you have stolen work and claimed it as your own. If you copy from a library source or an encyclopedia entry, you are equally guilty of stealing someone else's ideas and words. Such serious instances of intentional plagiarism are not treated lightly at Skidmore and in the academic world; like cheating on examinations, plagiarism can be punished by suspension from the College. An honest and responsible member of the academic community never plagiarizes.
+
+However, you need not be blatantly dishonest to be guilty of plagiarism in a paper composed mostly of your own words and ideas. Imagine, for example, that you write a paper about the problems of the homeless, and in the paper you mention approximate numbers of homeless people in three major cities, New York, Chicago, and Los Angeles. Since you are a Skidmore student, your teacher knows you are not conducting census surveys or counting homeless people. If you don't indicate where these statistics come from, your teacher must reach one of two conclusions. First, you might have such contempt for the honest use of evidence that you have made up the numbers. Second, and more likely, your numbers may come from some other source - a book, a magazine, a lecture or perhaps a television broadcast - that you have failed to acknowledge through documentation.
+
+Let's imagine one more case. Again, the words and ideas in your paper are mostly your own, but you have taken some ideas from a magazine article you recently read on the subject. Let us say you have even cited the source by giving a complete bibliographical entry at the end of your paper, although no references within your text indicate exactly where you have borrowed ideas. Your paper sparks your professor's interest, so she finds the article and reads it for herself. In reading, she finds that two paragraphs in your paper do nothing but summarize the material in this article, and you have quoted two sentences word for word without enclosing them in quotation marks. In this case, you may have tried to be honest about your source, but you are still guilty of plagiarism. First, you have summarized someone else's work without indicating it; your professor might think that these are your own ideas. Second, you have stolen words by lifting text word-for-word without quoting. Despite your best intentions, you have plagiarized - and this example also represents a serious offense.
+
+One last example: Students sometimes discuss their work with classmates, friends, or roommates. These discussions can help you to generate ideas and to think of ways to convey those ideas clearly in your paper. In an academic community, these discussions are important and exciting. But your friend might suggest some ideas, tell you about a lecture or reading, or summarize a source that he or she has read. In that case, you should document the conversation with your friend as one of your reference sources. Otherwise, this "collaboration" may be a form of plagiarism.
+
+Avoiding unintentional plagiarism
+
+Unintentional plagiarism occurs for two reasons. Please keep in mind that neither is an adequate excuse for or defense against an accusation of plagiarism.
+
+I. Ignorance. Some students claim they don't know that they have to cite sources and/or they don't know how to cite sources. At times, however, it is hard for professors to believe their students' claims of ignorance, especially when they have emphasized to their classes how important it is to document sources. Some students mistakenly believe that no internal citations are necessary as long as a source is listed at the end of a paper.
+
+2. Carelessness. Most students know that they must document sources, and, with a little effort, they could easily do so. Nevertheless, documentation looks like a lot of extra work, so some students oversimplify or even avoid it. They may assume that "documentation doesn't matter" because a professor has not specifically demanded it or is too busy to check sources.
+
+As we've stressed, you must take documentation seriously. Even such "unintentional" examples as these constitute not just the inadequate work of a lazy writer but actual plagiarism, and the College regards them as violations of academic integrity.
+
+Poor notetaking skills and plagiarism
+
+Some students plagiarize, despite the best of intentions, because their own system of taking notes, or lack of a system, fails them. How might this happen? When a student begins his research, he may take notes from a couple of sources. Not worrying about the later step of documentation, he may just note the title and author without copying the publishing information that is also essential in documentation. He may take notes indiscriminately, jotting down whatever seems interesting or useful. He may summarize a three-page argument, quote a few lines of text, paraphrase a writer's conclusions, and make a few comments indicating his own reactions to a text. Once finished with this source, he may return it to the library and pack his notes away for a time. You can see how our hypothetical student may get into trouble when he comes back to these notes a week or two later. His notes include direct quotations, paraphrases and summaries in his own words, and his own comments on the source, but he can't tell one from the other.
+
+By taking notes more carefully, you can avoid these pitfalls and write effectively from your own notes. Just remember, while you are taking notes, what you will need later on. Whether you take notes on cards, on legal pads, or even on cocktail napkins, you will need the full publishing information for any written source, and the date, place, and affiliation for any lecture or broadcast source. When you look back at your notes, you will need to distinguish your own comments from your paraphrasing and quotation. And, for accurate reference citations in your text, you will need to know page numbers for specific items you refer to when you write.
+
+Effective notetaking strategies
+
+WRITE a complete bibliography entry for each source.
+PARAPHRASE carefully, and in your own words, any material that you do not put in quotation marks.
+mark with PAR.
+note page number (p. 18).
+SUMMARY
+mark with SUM.
+note page numbers (pp. 25-26).
+QUOTATIONS
+copy anything you plan to quote word-for-word from the text exactly as it appears.
+mark all quotations with QUOTATION MARKS.
+note page numbers (pp. 236-245).
+YOUR COMMENTS
+when you write down your own comments and reactions to a source, clearly indicate that these are not from the source itself.
+mark your comments with [brackets].
